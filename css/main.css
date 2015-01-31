@@ -1,0 +1,73 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	background-color: black;
+	font-family: 'century gothic';
+	color: white;
+}
+header {
+	padding-left: 27.50cm;
+}
+.title {
+	font-size: 97px;
+	padding-left: 3cm;
+	background: radial-gradient(gray, black);
+}	 
+
+.untitle {
+	padding-left: 3.4cm;
+}
+.slogan {
+	padding-left: 24cm;
+}
+
+ul#nav li {
+	padding-top: 1.75cm;
+	margin-left: auto;
+	margin-right: auto;
+
+	display: inline;
+	padding-left: 1.5cm;
+	padding-right: 1.5cm;
+	outline-style: ;
+	outline-width: ;
+}
+.lambo {
+	float: left;
+}
+aside {
+	border: 5px solid black;
+	padding-top: 5.25cm;
+	background: linear-gradient(black, #565656);
+	padding-left: 20cm;
+}
+section {
+	float: left;
+	margin: 0 1.5%;
+    width: 30%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
